@@ -1,0 +1,146 @@
+ul{
+    list-style: none;
+    display:flex;
+    justify-content:space-between;
+    gap:15px;
+    font-size:18px;
+    color: #e5e7eb;
+}
+.header{
+    display:flex;
+    justify-content:space-between;
+    padding-bottom:50px;
+    
+    
+
+}
+.one{
+    background-color:#1f2937;;
+    color:white;
+    padding:150px;
+    padding-top:0;
+    padding-bottom:200px;
+    width:max;
+    max-height:200px;
+    flex:1;
+    
+}
+
+.description{
+    display:flex;
+    justify-content:space-between;
+    flex:1;
+}
+h1{
+    margin:0;
+    padding:0;
+    font-size: 48px;
+    font-weight: extra-bold;
+    color:#F9FAF8;
+}
+.imgPlaceHolder{
+    background-color: grey;
+    width:600px;
+    display:flex;
+    height:200px;
+    align-items:center;
+    justify-content:center;
+    text-align: center;
+    
+    
+
+}
+h3{
+    font-size:24px;
+    color:#f9faf8;
+}
+button{
+    background-color:#3882f6;
+    color:#f9faf8;
+    border-radius:15px;
+
+}
+
+.randos{
+    display:flex;
+    justify-content:space-between;
+    margin:0px 200px;
+    
+
+}
+div.randos > div > div{
+    border:2px solid rgb(33, 155, 196);
+    height:100px;
+    width:100px;
+    border-radius:15px;
+}
+div.randos > div > p{
+    max-width:150px;
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+.three{
+    width:max;
+    height:300px;
+    background-color:#E5E7EB;
+    
+}
+div.three > div > p{
+    margin:0 250px;
+    font-size: 36px;
+    font-style:italic;
+    font-weight:light;
+    color:#1f2937;
+    padding-top:25px;
+    
+}
+div.three > p{
+    font-weight:bold;
+    font-size:25px;
+    text-align:end;
+    padding-right:150px;
+}
+.four{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.inner-four{
+    background-color:#3882f6;
+    min-width:700px;
+    justify-content:space-around;
+    margin-top:25px;
+    display:flex;
+    align-items:center;
+    color:white;
+    padding:20px;
+    border-radius:5px;
+    
+
+}
+
+li{
+    list-style:none;
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    margin:0;
+    padding:0;
+}
+div.four > p{
+    margin:0;
+    padding:0;
+}
+div.button > button{
+    border:2px solid white;
+    border-radius:20px;
+    padding:5px 20px;
+    font-weight: bold;
+    border-radius:5px;
+
+    
+
+}
+
